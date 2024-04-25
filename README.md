@@ -312,6 +312,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jeremy Erik Leong](https://www.jeremyerikleong.com)
 - [Jeremy Grifski](https://jeremygrifski.com)
 - [Jerry Hirsch](https://jerryhirsch.com)
+- [Jesper Ekerling](https://ekerling.com)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jin Jheng Rong](https://jinrup.vercel.app/)
 - [Jo Lienhoop](https://jolienhoop.com)
